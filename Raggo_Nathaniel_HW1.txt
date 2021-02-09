@@ -1,0 +1,15 @@
+............
+
+Finished in 0.0197 seconds (files took 0.08401 seconds to load)
+12 examples, 0 failures
+
+..........
+
+Finished in 0.0132 seconds (files took 0.08361 seconds to load)
+10 examples, 0 failures
+
+............
+
+Finished in 0.01051 seconds (files took 0.08568 seconds to load)
+12 examples, 0 failures
+
